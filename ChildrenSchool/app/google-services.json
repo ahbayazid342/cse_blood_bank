@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110986182959",
+    "firebase_url": "https://bloodbank-e2cb1-default-rtdb.firebaseio.com",
+    "project_id": "bloodbank-e2cb1",
+    "storage_bucket": "bloodbank-e2cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110986182959:android:00fb85d384d642086f61da",
+        "android_client_info": {
+          "package_name": "com.example.childrenschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110986182959-qnv0tknq1cvithirlp37rt8pk55ick84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWR5vYEYN3SWysCAZYMUURPadhsrC-kv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110986182959-qnv0tknq1cvithirlp37rt8pk55ick84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
